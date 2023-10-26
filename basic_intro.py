@@ -9,3 +9,4 @@ easy.print_newline()
 ourStrMod = easy.change_str_case("Up spPo Ed")
 print(ourStrMod)
 
+#well, that's one way to do it...
