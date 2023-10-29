@@ -6,6 +6,7 @@ def print_intro():
 def print_newline():
     print("\n")
 
+#define a function
 def change_str_case(string_var):
     new_string = ''
     
