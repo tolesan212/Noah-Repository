@@ -22,3 +22,5 @@ def change_str_case(string_var):
 
 
     return(new_string)
+
+#editing directly is probably not a good practice...
