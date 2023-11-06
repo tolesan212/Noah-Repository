@@ -24,3 +24,4 @@ print(ourStrMod)
 # only tested on one branch: main
 
 #attempted and failed: git commit -m "<arbitrary message>"
+#second attempt: with git add
