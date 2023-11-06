@@ -22,3 +22,5 @@ print(ourStrMod)
 # save this message and close text editor
 # run: git push
 # only tested on one branch: main
+
+#attempted and failed: git commit -m "<arbitrary message>"
