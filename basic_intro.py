@@ -25,3 +25,4 @@ print(ourStrMod)
 
 #attempted and failed: git commit -m "<arbitrary message>"
 #second attempt: with git add
+#third attempt: git add, git commit -m
