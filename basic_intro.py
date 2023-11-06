@@ -17,5 +17,8 @@ print(ourStrMod)
 
 #here's how I updates my commits to the GitHub:
 # open terminal on VScode (Git Bash built-in)
-# 
-#
+# run: git commit -a
+# enter a message in the text editor box that opens
+# save this message and close text editor
+# run: git push
+# only tested on one branch: main
