@@ -23,4 +23,6 @@ def change_str_case(string_var):
 
     return(new_string)
 
-#editing directly in Github is probably not a good practice...
+#editing directly with Github editor is probably not a good practice...
+#better practice: create a local branch with git 
+#push local branch onto Github branch
