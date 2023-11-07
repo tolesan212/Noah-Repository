@@ -31,4 +31,5 @@ def change_str_case(string_var):
 
 #created new branch on local machine
 #executed git branch newlocal1, git checkout newlocal1 (to switch)
-# made changes, git add ., git commit -m, git push (results in error: no upstream branch)
+#made changes, git add ., git commit -m, git push (results in error: no upstream branch)
+#to resolve error, use "git push --set-upstream origin newlocal1" instead of git push
