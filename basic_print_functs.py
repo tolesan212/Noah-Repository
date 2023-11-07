@@ -26,3 +26,5 @@ def change_str_case(string_var):
 #editing directly with Github editor is probably not a good practice...
 #better practice: create a local branch with git 
 #push local branch onto Github branch
+
+#had to use git pull to retrieve lines 27 and 28
