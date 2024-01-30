@@ -16,8 +16,10 @@ print(ourStrMod)
 #this comment was added on my computer
 #this comment was also added here
 
+#add code first before instructions below!
+
 #here's how I updates my commits to the GitHub:
-# open terminal on VScode (Git Bash built-in) yes!
+# open terminal on VScode (Git Bash built-in)
 # run: git commit -a
 # enter a message in the text editor box that opens
 # save this message and close text editor
