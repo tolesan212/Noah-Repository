@@ -28,3 +28,8 @@ def change_str_case(string_var):
 #push local branch onto Github branch
 
 #had to use git pull to retrieve lines 27 and 28
+
+#created new branch on local machine
+#executed git branch newlocal1, git checkout newlocal1 (to switch)
+#made changes, git add ., git commit -m, git push (results in error: no upstream branch)
+#to resolve error, use "git push --set-upstream origin newlocal1" instead of git push
