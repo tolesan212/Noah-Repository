@@ -7,8 +7,8 @@ print("Function called: print_intro")
 
 
 ourStrMod = easy.change_str_case("Up spPo Ed")
-easy.print_newline()
-print(ourStrMod)
+easy.print_newline() #moved here
+print(ourStrMod) 
 
 #well, that's one way to do it...
 #i see an edit button here on Github...
@@ -17,7 +17,7 @@ print(ourStrMod)
 #this comment was also added here
 
 #here's how I updates my commits to the GitHub:
-# open terminal on VScode (Git Bash built-in)
+# open terminal on VScode (Git Bash built-in) yes!
 # run: git commit -a
 # enter a message in the text editor box that opens
 # save this message and close text editor
