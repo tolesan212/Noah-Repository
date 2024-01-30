@@ -4,9 +4,10 @@ import basic_print_functs as easy
 
 easy.print_intro()
 print("Function called: print_intro")
-easy.print_newline()
+
 
 ourStrMod = easy.change_str_case("Up spPo Ed")
+easy.print_newline()
 print(ourStrMod)
 
 #well, that's one way to do it...
